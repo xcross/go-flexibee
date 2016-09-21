@@ -1,7 +1,0 @@
-[FlexiBee]
-    host = "demo.flexibee.eu"
-    port = "5434"
-    user = ""
-    pass = ""
-	prefix = "c"
-	firma = "demo"
